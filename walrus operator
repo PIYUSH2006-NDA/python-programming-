@@ -1,0 +1,4 @@
+#walrus operator
+no=["2","6","6","9","6","4","7"]
+while (n:=len(no))>0:
+     print(no.pop())
